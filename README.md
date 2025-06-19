@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👨‍💻 Jerad Zackuse
 
-<!--
-**jeradzackusedevs/jeradzackusedevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer | Linux SysAdmin | Automation Engineer**
 
-Here are some ideas to get you started:
+I build secure, fast, and reliable backend systems that *just work*.  
+From Python scripts to FastAPI microservices to hardened Linux servers — I automate the boring stuff, scale the important stuff, and deploy clean every time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do:
+- 🔧 **Python + Bash automation** — for tasks, workflows, scrapers, and system operations
+- ⚡ **FastAPI backend development** — lightweight, async APIs built right
+- 🔐 **Linux server setup & hardening** — security-first, production-ready systems
+- 🔁 **CI/CD pipelines** — GitHub Actions, Docker, Ansible, zero-downtime deployments
+
+---
+
+### 🛠 Tech Stack:
+`Python` `Bash` `FastAPI` `Docker`  
+`GitHub Actions` `Ansible` `PostgreSQL`  
+`Nginx` `Linux (Ubuntu/Debian)` `Systemd`
+
+---
+
+### 📬 Currently Open For:
+- ✅ Custom API backends (FastAPI)
+- ✅ Automation scripts (Python/Bash)
+- ✅ Server provisioning & DevOps work
+
+Let’s build something secure, scalable, and rock-solid.
+
+📫 Reach out: jeradzackusedev@gmail.com
