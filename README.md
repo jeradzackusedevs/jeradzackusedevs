@@ -5,7 +5,7 @@
 I build secure, fast, and reliable backend systems that *just work*.  
 From Python scripts to FastAPI microservices to hardened Linux servers — I automate the boring stuff, scale the important stuff, and deploy clean every time.
 
-💡 Want a hardened server done-for-you or Automation? [Hire me for remote setup/consultations →](https://gumroad.com/jeradzackusedev.gumroad.com/l/consult-me?_gl=1*9evm5i*_ga*MTQxOTc3NzY0NC4xNzUwOTAyODAw*_ga_6LJN6D94N6*czE3NTA5MDI3OTkkbzEkZzEkdDE3NTA5MDc4MjgkajIwJGwwJGgw)
+💡 Want a hardened server done-for-you or Automation? [Hire me for remote setup/consultations →](https://jeradzackusedev.gumroad.com/)
 
 ---
 
